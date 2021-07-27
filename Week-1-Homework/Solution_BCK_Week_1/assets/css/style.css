@@ -47,12 +47,7 @@ a {
 }
 
 
-
-/* Main body syling */
-p {
-    font-size: 16px;
-}
-
+/* Hero banner above the main body */
 .hero {
     height: 800px;
     width: 100%;
@@ -61,6 +56,13 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+
+/* Main body syling */
+p {
+    font-size: 16px;
+}
+
 
 .float-left {
     float: left;
