@@ -10,6 +10,8 @@ body {
     background-color: #d9dcd6;
 }
 
+
+
 /* Header and Navigation Bar Styling*/
 header {
     padding: 20px;
@@ -58,7 +60,14 @@ a {
 }
 
 
-/* Main body syling */
+/* Main body styling */
+
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 p {
     font-size: 16px;
 }
@@ -73,12 +82,29 @@ p {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
+
+section {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
 }
 
+section img{
+    max-height: 200px;
+}
+
+section h2{
+margin-bottom: 20px;
+font-size: 36px;
+}
+
+
+
+
+/* Sidebar stylings */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -138,23 +164,7 @@ p {
     max-width: 150px;
 }
 
-section {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
 
-section img{
-    max-height: 200px;
-}
-
-section h2{
-margin-bottom: 20px;
-font-size: 36px;
-}
 
 
 
