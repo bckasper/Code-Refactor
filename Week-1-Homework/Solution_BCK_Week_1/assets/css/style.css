@@ -1,13 +1,16 @@
+/* Universal Styling */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+
 body {
     background-color: #d9dcd6;
 }
 
+/* Header and Navigation Bar Styling*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -33,7 +36,6 @@ nav {
     font-size: 20px;
 }
 
-
 li {
     display: inline-block;
     margin-left: 25px;
@@ -44,6 +46,9 @@ a {
     text-decoration: none;
 }
 
+
+
+/* Main body syling */
 p {
     font-size: 16px;
 }
@@ -186,6 +191,9 @@ p {
     font-size: 36px;
 }
 
+
+
+/* Footer Styling */
 .footer {
     padding: 30px;
     clear: both;
