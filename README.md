@@ -11,3 +11,7 @@ To accomplish this, here is a high-level list of what I did:
 GitHub Repo: https://github.com/bckasper/Code-Refactor
 
 URL to the site: https://bckasper.github.io/Code-Refactor/
+
+
+Screenshot of the application:
+
