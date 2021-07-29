@@ -12,6 +12,5 @@ GitHub Repo: https://github.com/bckasper/Code-Refactor
 
 URL to the site: https://bckasper.github.io/Code-Refactor/
 
-
-Screenshot of the application:
+Screenshot of the application included in REPO.
 
