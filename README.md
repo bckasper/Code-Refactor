@@ -8,6 +8,6 @@ To accomplish this, here is a high-level list of what I did:
 5. Ensure all links were working appropriately
 6. Ensure there was a descriptive title for the website
 
-GitHub Repo: 
+GitHub Repo: https://github.com/bckasper/Code-Refactor
 
 URL to the site: https://bckasper.github.io/OSU-Bootcamp-Homework/
